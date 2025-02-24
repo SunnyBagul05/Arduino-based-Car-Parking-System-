@@ -9,7 +9,7 @@ Setup Instructions
 2. When setup is complete, install libraries. 
 .. For Libraries: https://www.arduino.cc/en/guide/libraries
 .. Navigate to your Arduino IDE Install Directory
-.. On windows, this is typically " C:\Program Files (x86)\Arduino\libraries " 
+.. It can be " C:\Program Files (x86)\Arduino\libraries " or wherever you have installed 
 .. Place Library FOLDERS in this directory.
 
 .. You will need the following libraries. 
